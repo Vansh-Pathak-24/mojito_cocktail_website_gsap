@@ -70,7 +70,7 @@ const Hero = () => {
 
 
   return (
-    <>
+    <div id='home'>
       <section id='hero' className='noisy'>
         <h1 className='title'>MOJITO</h1>
 
@@ -116,7 +116,7 @@ const Hero = () => {
         />
       </div>
 
-    </>
+    </div>
   )
 }
 
