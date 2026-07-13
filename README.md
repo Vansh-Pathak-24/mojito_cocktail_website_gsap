@@ -1,16 +1,50 @@
-# React + Vite
+# 🍸 Velvet Pour | GSAP Cocktail Landing Page
+A modern, animated cocktail landing page built with **GSAP** and **Tailwind CSS**. The project focuses on immersive user experience through smooth scroll animations, text reveals, interactive navigation, and responsive design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Live Website:** https://vansh-gsap-website.vercel.app/
 
-## React Compiler
+## ✨ Features
+* Smooth GSAP-powered animations
+* ScrollTrigger-based scrolling effects
+* SplitText text reveal animations
+* Interactive cocktail slider
+* Responsive design for desktop and mobile
+* Modern glassmorphism-inspired UI
+* Accessible navigation with ARIA attributes
+  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+* React
+* GSAP
+* Tailwind CSS
+* JavaScript
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Run Locally
+
+```bash
+git clone https://github.com/Vansh-Pathak-24/mojito_cocktail_website_gsap
+
+cd your-repository
+
+npm install
+
+npm run dev
+```
+
+## 📚 What I Learned
+This project helped me gain hands-on experience with:
+
+* GSAP timelines and tweens
+* ScrollTrigger
+* SplitText animations
+* React state management
+* Responsive UI development
+* Building interactive landing pages with modern frontend practices
+
+---
+
+If you have any feedback or suggestions, feel free to open an issue or connect with me.
